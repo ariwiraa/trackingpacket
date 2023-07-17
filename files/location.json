@@ -1,0 +1,25 @@
+{
+  "locations": [
+    {
+      "id": "loc-64ac3d82-a75f-4672-9201-d25b997d7077",
+      "name": "gudang",
+      "address": "bekasi"
+    },
+
+    {
+      "id": "loc-d185c73b-3dc6-4ff6-9da7-94afe91d913d",
+      "name": "BKS",
+      "address": "bekasi"
+    },
+    {
+      "id": "loc-cbfd6d7d-2a62-424f-9a31-a07ae5880ae3",
+      "name": "JKT",
+      "address": "JKT"
+    },
+    {
+      "id": "loc-3ca64e0d-268a-4d67-a6b2-a9dd6080ecb7",
+      "name": "rumah",
+      "address": "bektim"
+    }
+  ]
+}
